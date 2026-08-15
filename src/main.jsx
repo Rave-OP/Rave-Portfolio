@@ -410,10 +410,10 @@ function App() {
   const interval = setInterval(() => {
 
     setShowcaseIndex((prev) =>
-      (prev + 3) % WORK.length
+      (prev + 1) % WORK.length
     );
 
-  }, 2000);
+  }, 10000);
 
   return () =>
     clearInterval(interval);

@@ -3092,3 +3092,24 @@ footer {
     rgba(15,18,28,.12);
 
 }
+
+/* =====================================================
+   MOBILE
+===================================================== */
+
+@media (max-width: 800px) {
+
+  .showcase-grid {
+    gap: 10px;
+  }
+
+  /* No title/category text on mobile */
+  .showcase-overlay {
+    display: none;
+  }
+
+  .showcase-overlay strong {
+    font-size: 18px;
+  }
+
+}
