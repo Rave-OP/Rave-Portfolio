@@ -678,10 +678,10 @@ function App() {
 
                 <div className="poster-title">
 
-                  RAVE
+                  
                   <br />
 
-                  <b>GFX</b>
+                  <b></b>
 
                 </div>
 
@@ -930,7 +930,7 @@ function App() {
   <div className="social-category">
 
     <div className="social-category-heading">
-      <span>01</span>
+      <span>01 </span>
       <strong>WORK</strong>
     </div>
 
@@ -1049,7 +1049,7 @@ function App() {
   <div className="social-category">
 
     <div className="social-category-heading">
-      <span>02</span>
+      <span>02 </span>
       <strong>PERSONAL / CONTENT</strong>
     </div>
 
