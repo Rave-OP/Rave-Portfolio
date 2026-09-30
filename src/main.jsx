@@ -39,7 +39,7 @@ const SOCIALS = {
   youtube: "https://www.youtube.com/@RaveOP8",
   youtubePlays: "https://www.youtube.com/@RavePlaysXD",
   youtubeVerse: "https://www.youtube.com/@RaveVerseOP",
-  youtubeCS: "https://www.youtube.com/@RaveCS8",
+  youtubeCS: "https://www.youtube.com/@RaveXD8",
   youtubePersonal: "https://www.youtube.com/@suhasraut24",
 
   twitch: "https://www.twitch.tv/ravexd_",
@@ -1179,7 +1179,7 @@ function App() {
           </span>
 
           <strong>
-            @RaveCS8
+            @RaveXD8
           </strong>
 
           <small>
