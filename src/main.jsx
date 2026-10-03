@@ -24,7 +24,7 @@ const SOCIALS = {
   workDiscord: "https://discord.gg/BtSyPXQdeX",
   workDiscordUsername: "rave.gfx",
 
-  workInstagram: "https://instagram.com/rave.gfx_",
+  workInstagram: "https://instagram.com/raveop.gfx",
   email: "mailto:collabxrave@gmail.com",
 
 
@@ -958,7 +958,7 @@ function App() {
           </span>
 
           <strong>
-            @rave.gfx_
+            @raveop.gfx
           </strong>
 
           <small>
