@@ -1391,9 +1391,9 @@ h2 em {
 
 .social-card {
 
-  min-height: 170px;
+  min-height: 80px;
 
-  padding: 25px;
+  padding: 15px;
 
   border:
     1px solid
