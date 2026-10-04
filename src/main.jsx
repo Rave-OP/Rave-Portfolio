@@ -455,7 +455,11 @@ function App() {
           href="#home"
           onClick={closeMenu}
         >
-          <span>Rave</span>GFX<span>.</span>
+          <img
+            src="/thumbnails/logo.png"
+            alt="RAVE GFX"
+            className="brand-logo"
+            />
         </a>
 
 
