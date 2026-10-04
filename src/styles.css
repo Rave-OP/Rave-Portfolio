@@ -1389,7 +1389,8 @@ h2 em {
 }
 
 .brand-logo {
-  height: 42px;
+  height: 62px;
+  padding-left: 35px;
   width: auto;
   display: block;
   object-fit: contain;
