@@ -57,52 +57,52 @@ const WORK = [
   // ============================================================
 
   // Client Work 1–6
-  { id: 1, title: "Gaming Highlights", category: "Client Work", image: "/thumbnails/01.jpg" },
-  { id: 2, title: "Insane Moment", category: "Client Work", image: "/thumbnails/02.jpg" },
-  { id: 3, title: "Best Gameplay", category: "Client Work", image: "/thumbnails/03.jpg" },
-  { id: 4, title: "Epic Match", category: "Client Work", image: "/thumbnails/04.jpg" },
-  { id: 5, title: "Crazy Win", category: "Client Work", image: "/thumbnails/05.jpg" },
-  { id: 6, title: "Final Round", category: "Client Work", image: "/thumbnails/06.jpg" },
+  { id: 1, title: "Youtube Banner", category: "Client Work", image: "/thumbnails/01.jpg" },
+  { id: 2, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/02.jpg" },
+  { id: 3, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/03.jpg" },
+  { id: 4, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/04.jpg" },
+  { id: 5, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/05.jpg" },
+  { id: 6, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/06.jpg" },
 
   // Client Work 43–48
-  { id: 43, title: "Epic Clutch", category: "Client Work", image: "/thumbnails/43.jpg" },
-  { id: 44, title: "Insane Play", category: "Client Work", image: "/thumbnails/44.jpg" },
-  { id: 45, title: "Unbelievable Moment", category: "Client Work", image: "/thumbnails/45.jpg" },
-  { id: 46, title: "Gaming Beast", category: "Client Work", image: "/thumbnails/46.jpg" },
-  { id: 47, title: "Ultimate Win", category: "Client Work", image: "/thumbnails/47.jpg" },
-  { id: 48, title: "Crazy Gameplay", category: "Client Work", image: "/thumbnails/48.jpg" },
+  { id: 43, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/43.jpg" },
+  { id: 44, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/44.jpg" },
+  { id: 45, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/45.jpg" },
+  { id: 46, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/46.jpg" },
+  { id: 47, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/47.jpg" },
+  { id: 48, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/48.jpg" },
 
   // Client Work 67–72
-  { id: 67, title: "Last Second Win", category: "Client Work", image: "/thumbnails/67.jpg" },
-  { id: 68, title: "Impossible Clutch", category: "Client Work", image: "/thumbnails/68.jpg" },
-  { id: 69, title: "Insane Reaction", category: "Client Work", image: "/thumbnails/69.jpg" },
-  { id: 70, title: "Pro Gameplay", category: "Client Work", image: "/thumbnails/70.jpg" },
-  { id: 71, title: "Crazy Comeback", category: "Client Work", image: "/thumbnails/71.jpg" },
-  { id: 72, title: "Best Moments", category: "Client Work", image: "/thumbnails/72.jpg" },
+  { id: 67, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/67.jpg" },
+  { id: 68, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/68.jpg" },
+  { id: 69, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/69.jpg" },
+  { id: 70, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/70.jpg" },
+  { id: 71, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/71.jpg" },
+  { id: 72, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/72.jpg" },
 
   // Client Work 91–96
-  { id: 91, title: "Epic Victory", category: "Client Work", image: "/thumbnails/91.jpg" },
-  { id: 92, title: "Insane Finish", category: "Client Work", image: "/thumbnails/92.jpg" },
-  { id: 93, title: "Gaming Madness", category: "Client Work", image: "/thumbnails/93.jpg" },
-  { id: 94, title: "Crazy Challenge", category: "Client Work", image: "/thumbnails/94.jpg" },
-  { id: 95, title: "Unexpected Win", category: "Client Work", image: "/thumbnails/95.jpg" },
-  { id: 96, title: "Perfect Game", category: "Client Work", image: "/thumbnails/96.jpg" },
+  { id: 91, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/91.jpg" },
+  { id: 92, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/92.jpg" },
+  { id: 93, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/93.jpg" },
+  { id: 94, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/94.jpg" },
+  { id: 95, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/95.jpg" },
+  { id: 96, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/96.jpg" },
 
   // Client Work 115–120
-  { id: 115, title: "Legendary Moment", category: "Client Work", image: "/thumbnails/115.jpg" },
-  { id: 116, title: "Gaming God", category: "Client Work", image: "/thumbnails/116.jpg" },
-  { id: 117, title: "Insane Skills", category: "Client Work", image: "/thumbnails/117.jpg" },
-  { id: 118, title: "Epic Highlights", category: "Client Work", image: "/thumbnails/118.jpg" },
-  { id: 119, title: "Crazy Round", category: "Client Work", image: "/thumbnails/119.jpg" },
-  { id: 120, title: "Ultimate Play", category: "Client Work", image: "/thumbnails/120.jpg" },
+  { id: 115, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/115.jpg" },
+  { id: 116, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/116.jpg" },
+  { id: 117, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/117.jpg" },
+  { id: 118, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/118.jpg" },
+  { id: 119, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/119.jpg" },
+  { id: 120, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/120.jpg" },
 
   // Client Work 139–144
-  { id: 139, title: "Best Clutch", category: "Client Work", image: "/thumbnails/139.jpg" },
-  { id: 140, title: "Insane Victory", category: "Client Work", image: "/thumbnails/140.jpg" },
-  { id: 141, title: "Gaming Legend", category: "Client Work", image: "/thumbnails/141.jpg" },
-  { id: 142, title: "Epic Gameplay", category: "Client Work", image: "/thumbnails/142.jpg" },
-  { id: 143, title: "Crazy Highlights", category: "Client Work", image: "/thumbnails/143.jpg" },
-  { id: 144, title: "Ultimate Gaming", category: "Client Work", image: "/thumbnails/144.jpg" },
+  { id: 139, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/139.jpg" },
+  { id: 140, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/140.jpg" },
+  { id: 141, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/141.jpg" },
+  { id: 142, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/142.jpg" },
+  { id: 143, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/143.jpg" },
+  { id: 144, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/144.jpg" },
 
 
   // ============================================================
@@ -110,52 +110,52 @@ const WORK = [
   // ============================================================
 
   // CS2 7–12
-  { id: 7, title: "CS2 Competitive", category: "CS2", image: "/thumbnails/07.jpg" },
-  { id: 8, title: "CS2 Clutch", category: "CS2", image: "/thumbnails/08.jpg" },
-  { id: 9, title: "AWP Highlights", category: "CS2", image: "/thumbnails/09.jpg" },
-  { id: 10, title: "Faceit Grind", category: "CS2", image: "/thumbnails/10.jpg" },
-  { id: 11, title: "Global Elite", category: "CS2", image: "/thumbnails/11.jpg" },
-  { id: 12, title: "Insane Ace", category: "CS2", image: "/thumbnails/12.jpg" },
+  { id: 7, title: "R01", category: "Roblox", image: "/thumbnails/07.jpg" },
+  { id: 8, title: "R02", category: "Roblox", image: "/thumbnails/08.jpg" },
+  { id: 9, title: "R03", category: "Roblox", image: "/thumbnails/09.jpg" },
+  { id: 10, title: "R04", category: "Roblox", image: "/thumbnails/10.jpg" },
+  { id: 11, title: "R05", category: "Roblox", image: "/thumbnails/11.jpg" },
+  { id: 12, title: "R06", category: "Roblox", image: "/thumbnails/12.jpg" },
 
   // CS2 31–36
-  { id: 31, title: "1v5 Clutch", category: "CS2", image: "/thumbnails/31.jpg" },
-  { id: 32, title: "Faceit Level 10", category: "CS2", image: "/thumbnails/32.jpg" },
-  { id: 33, title: "AWP Ace", category: "CS2", image: "/thumbnails/33.jpg" },
-  { id: 34, title: "One Tap King", category: "CS2", image: "/thumbnails/34.jpg" },
-  { id: 35, title: "Ranked Grind", category: "CS2", image: "/thumbnails/35.jpg" },
-  { id: 36, title: "Insane Flick", category: "CS2", image: "/thumbnails/36.jpg" },
+  { id: 31, title: "R07", category: "Roblox", image: "/thumbnails/31.jpg" },
+  { id: 32, title: "R08", category: "Roblox", image: "/thumbnails/32.jpg" },
+  { id: 33, title: "R09", category: "Roblox", image: "/thumbnails/33.jpg" },
+  { id: 34, title: "R10", category: "Roblox", image: "/thumbnails/34.jpg" },
+  { id: 35, title: "R11", category: "Roblox", image: "/thumbnails/35.jpg" },
+  { id: 36, title: "R12", category: "Roblox", image: "/thumbnails/36.jpg" },
 
   // CS2 55–60
-  { id: 55, title: "Deagle Only", category: "CS2", image: "/thumbnails/55.jpg" },
-  { id: 56, title: "AWP Master", category: "CS2", image: "/thumbnails/56.jpg" },
-  { id: 57, title: "Clutch King", category: "CS2", image: "/thumbnails/57.jpg" },
-  { id: 58, title: "Inferno Madness", category: "CS2", image: "/thumbnails/58.jpg" },
-  { id: 59, title: "Mirage Ranked", category: "CS2", image: "/thumbnails/59.jpg" },
-  { id: 60, title: "Dust 2 Domination", category: "CS2", image: "/thumbnails/60.jpg" },
+  { id: 55, title: "R13", category: "Roblox", image: "/thumbnails/55.jpg" },
+  { id: 56, title: "R14", category: "Roblox", image: "/thumbnails/56.jpg" },
+  { id: 57, title: "R15", category: "Roblox", image: "/thumbnails/57.jpg" },
+  { id: 58, title: "R16", category: "Roblox", image: "/thumbnails/58.jpg" },
+  { id: 59, title: "R17", category: "Roblox", image: "/thumbnails/59.jpg" },
+  { id: 60, title: "R18", category: "Roblox", image: "/thumbnails/60.jpg" },
 
   // CS2 79–84
-  { id: 79, title: "Nuke Highlights", category: "CS2", image: "/thumbnails/79.jpg" },
-  { id: 80, title: "Ancient Clutch", category: "CS2", image: "/thumbnails/80.jpg" },
-  { id: 81, title: "Premier Grind", category: "CS2", image: "/thumbnails/81.jpg" },
-  { id: 82, title: "10K Elo", category: "CS2", image: "/thumbnails/82.jpg" },
-  { id: 83, title: "20K Elo", category: "CS2", image: "/thumbnails/83.jpg" },
-  { id: 84, title: "Top Fragging", category: "CS2", image: "/thumbnails/84.jpg" },
+  { id: 79, title: "R19", category: "Roblox", image: "/thumbnails/79.jpg" },
+  { id: 80, title: "R20", category: "Roblox", image: "/thumbnails/80.jpg" },
+  { id: 81, title: "R21", category: "Roblox", image: "/thumbnails/81.jpg" },
+  { id: 82, title: "R22", category: "Roblox", image: "/thumbnails/82.jpg" },
+  { id: 83, title: "R23", category: "Roblox", image: "/thumbnails/83.jpg" },
+  { id: 84, title: "R24", category: "Roblox", image: "/thumbnails/84.jpg" },
 
   // CS2 103–108
-  { id: 103, title: "Insane Spray", category: "CS2", image: "/thumbnails/103.jpg" },
-  { id: 104, title: "Perfect Retake", category: "CS2", image: "/thumbnails/104.jpg" },
-  { id: 105, title: "Bomb Clutch", category: "CS2", image: "/thumbnails/105.jpg" },
-  { id: 106, title: "T Side Carry", category: "CS2", image: "/thumbnails/106.jpg" },
-  { id: 107, title: "CT Side Beast", category: "CS2", image: "/thumbnails/107.jpg" },
-  { id: 108, title: "Insane Entry", category: "CS2", image: "/thumbnails/108.jpg" },
+  { id: 103, title: "R25", category: "Roblox", image: "/thumbnails/103.jpg" },
+  { id: 104, title: "R26", category: "Roblox", image: "/thumbnails/104.jpg" },
+  { id: 105, title: "R27", category: "Roblox", image: "/thumbnails/105.jpg" },
+  { id: 106, title: "R28", category: "Roblox", image: "/thumbnails/106.jpg" },
+  { id: 107, title: "R29", category: "Roblox", image: "/thumbnails/107.jpg" },
+  { id: 108, title: "R30", category: "Roblox", image: "/thumbnails/108.jpg" },
 
   // CS2 127–132
-  { id: 127, title: "Last Round", category: "CS2", image: "/thumbnails/127.jpg" },
-  { id: 128, title: "Crazy Comeback", category: "CS2", image: "/thumbnails/128.jpg" },
-  { id: 129, title: "Pro Level Aim", category: "CS2", image: "/thumbnails/129.jpg" },
-  { id: 130, title: "CS2 Highlights", category: "CS2", image: "/thumbnails/130.jpg" },
-  { id: 131, title: "Ranked Demon", category: "CS2", image: "/thumbnails/131.jpg" },
-  { id: 132, title: "Ultimate Clutch", category: "CS2", image: "/thumbnails/132.jpg" },
+  { id: 127, title: "R31", category: "Roblox", image: "/thumbnails/127.jpg" },
+  { id: 128, title: "R32", category: "Roblox", image: "/thumbnails/128.jpg" },
+  { id: 129, title: "R33", category: "Roblox", image: "/thumbnails/129.jpg" },
+  { id: 130, title: "R34", category: "Roblox", image: "/thumbnails/130.jpg" },
+  { id: 131, title: "R35", category: "Roblox", image: "/thumbnails/131.jpg" },
+  { id: 132, title: "R36", category: "Roblox", image: "/thumbnails/132.jpg" },
 
 
   // ============================================================
@@ -213,56 +213,56 @@ const WORK = [
 
   
   // ============================================================
-  // ======================== VALORANT ==========================
+  // ======================== GTA ==========================
   // ============================================================
 
-  // Valorant 19–24
-  { id: 19, title: "Gaming Highlights", category: "Valorant", image: "/thumbnails/19.jpg" },
-  { id: 20, title: "Insane Moment", category: "Valorant", image: "/thumbnails/20.jpg" },
-  { id: 21, title: "Best Gameplay", category: "Valorant", image: "/thumbnails/21.jpg" },
-  { id: 22, title: "Epic Match", category: "Valorant", image: "/thumbnails/22.jpg" },
-  { id: 23, title: "Crazy Win", category: "Valorant", image: "/thumbnails/23.jpg" },
-  { id: 24, title: "Final Round", category: "Valorant", image: "/thumbnails/24.jpg" },
+  // GTA 19–24
+  { id: 19, title: "Gaming Highlights", category: "GTA", image: "/thumbnails/19.jpg" },
+  { id: 20, title: "Insane Moment", category: "GTA", image: "/thumbnails/20.jpg" },
+  { id: 21, title: "Best Gameplay", category: "GTA", image: "/thumbnails/21.jpg" },
+  { id: 22, title: "Epic Match", category: "GTA", image: "/thumbnails/22.jpg" },
+  { id: 23, title: "Crazy Win", category: "GTA", image: "/thumbnails/23.jpg" },
+  { id: 24, title: "Final Round", category: "GTA", image: "/thumbnails/24.jpg" },
 
-  // Valorant 25–30
-  { id: 25, title: "Ace Gameplay", category: "Valorant", image: "/thumbnails/25.jpg" },
-  { id: 26, title: "Immortal Ranked", category: "Valorant", image: "/thumbnails/26.jpg" },
-  { id: 27, title: "Reyna Ace", category: "Valorant", image: "/thumbnails/27.jpg" },
-  { id: 28, title: "Solo Queue", category: "Valorant", image: "/thumbnails/28.jpg" },
-  { id: 29, title: "Rank Up", category: "Valorant", image: "/thumbnails/29.jpg" },
-  { id: 30, title: "Crazy Headshots", category: "Valorant", image: "/thumbnails/30.jpg" },
+  // GTA 25–30
+  { id: 25, title: "Ace Gameplay", category: "GTA", image: "/thumbnails/25.jpg" },
+  { id: 26, title: "Immortal Ranked", category: "GTA", image: "/thumbnails/26.jpg" },
+  { id: 27, title: "Reyna Ace", category: "GTA", image: "/thumbnails/27.jpg" },
+  { id: 28, title: "Solo Queue", category: "GTA", image: "/thumbnails/28.jpg" },
+  { id: 29, title: "Rank Up", category: "GTA", image: "/thumbnails/29.jpg" },
+  { id: 30, title: "Crazy Headshots", category: "GTA", image: "/thumbnails/30.jpg" },
 
-  // Valorant 49–54
-  { id: 49, title: "Insane Spray", category: "Valorant", image: "/thumbnails/49.jpg" },
-  { id: 50, title: "Match MVP", category: "Valorant", image: "/thumbnails/50.jpg" },
-  { id: 51, title: "Clutch Round", category: "Valorant", image: "/thumbnails/51.jpg" },
-  { id: 52, title: "Radiant Lobby", category: "Valorant", image: "/thumbnails/52.jpg" },
-  { id: 53, title: "Duelist Diff", category: "Valorant", image: "/thumbnails/53.jpg" },
-  { id: 54, title: "One Tap", category: "Valorant", image: "/thumbnails/54.jpg" },
+  // GTA 49–54
+  { id: 49, title: "Insane Spray", category: "GTA", image: "/thumbnails/49.jpg" },
+  { id: 50, title: "Match MVP", category: "GTA", image: "/thumbnails/50.jpg" },
+  { id: 51, title: "Clutch Round", category: "GTA", image: "/thumbnails/51.jpg" },
+  { id: 52, title: "Radiant Lobby", category: "GTA", image: "/thumbnails/52.jpg" },
+  { id: 53, title: "Duelist Diff", category: "GTA", image: "/thumbnails/53.jpg" },
+  { id: 54, title: "One Tap", category: "GTA", image: "/thumbnails/54.jpg" },
 
-  // Valorant 73–78
-  { id: 73, title: "Ace Round", category: "Valorant", image: "/thumbnails/73.jpg" },
-  { id: 74, title: "Last Man Standing", category: "Valorant", image: "/thumbnails/74.jpg" },
-  { id: 75, title: "Ranked Demon", category: "Valorant", image: "/thumbnails/75.jpg" },
-  { id: 76, title: "Reyna Unleashed", category: "Valorant", image: "/thumbnails/76.jpg" },
-  { id: 77, title: "Perfect Round", category: "Valorant", image: "/thumbnails/77.jpg" },
-  { id: 78, title: "Unstoppable", category: "Valorant", image: "/thumbnails/78.jpg" },
+  // GTA 73–78
+  { id: 73, title: "Ace Round", category: "GTA", image: "/thumbnails/73.jpg" },
+  { id: 74, title: "Last Man Standing", category: "GTA", image: "/thumbnails/74.jpg" },
+  { id: 75, title: "Ranked Demon", category: "GTA", image: "/thumbnails/75.jpg" },
+  { id: 76, title: "Reyna Unleashed", category: "GTA", image: "/thumbnails/76.jpg" },
+  { id: 77, title: "Perfect Round", category: "GTA", image: "/thumbnails/77.jpg" },
+  { id: 78, title: "Unstoppable", category: "GTA", image: "/thumbnails/78.jpg" },
 
-  // Valorant 97–102
-  { id: 97, title: "Clutch Master", category: "Valorant", image: "/thumbnails/97.jpg" },
-  { id: 98, title: "Ranked Madness", category: "Valorant", image: "/thumbnails/98.jpg" },
-  { id: 99, title: "Vandal Only", category: "Valorant", image: "/thumbnails/99.jpg" },
-  { id: 100, title: "Phantom Demon", category: "Valorant", image: "/thumbnails/100.jpg" },
-  { id: 101, title: "Radiant Push", category: "Valorant", image: "/thumbnails/101.jpg" },
-  { id: 102, title: "Insane Flicks", category: "Valorant", image: "/thumbnails/102.jpg" },
+  // GTA 97–102
+  { id: 97, title: "Clutch Master", category: "GTA", image: "/thumbnails/97.jpg" },
+  { id: 98, title: "Ranked Madness", category: "GTA", image: "/thumbnails/98.jpg" },
+  { id: 99, title: "Vandal Only", category: "GTA", image: "/thumbnails/99.jpg" },
+  { id: 100, title: "Phantom Demon", category: "GTA", image: "/thumbnails/100.jpg" },
+  { id: 101, title: "Radiant Push", category: "GTA", image: "/thumbnails/101.jpg" },
+  { id: 102, title: "Insane Flicks", category: "GTA", image: "/thumbnails/102.jpg" },
 
-  // Valorant 121–126
-  { id: 121, title: "Team Ace", category: "Valorant", image: "/thumbnails/121.jpg" },
-  { id: 122, title: "Deathmatch Grind", category: "Valorant", image: "/thumbnails/122.jpg" },
-  { id: 123, title: "Sheriff Only", category: "Valorant", image: "/thumbnails/123.jpg" },
-  { id: 124, title: "Unreal Aim", category: "Valorant", image: "/thumbnails/124.jpg" },
-  { id: 125, title: "Final Clutch", category: "Valorant", image: "/thumbnails/125.jpg" },
-  { id: 126, title: "Ranked Highlights", category: "Valorant", image: "/thumbnails/126.jpg" },
+  // GTA 121–126
+  { id: 121, title: "Team Ace", category: "GTA", image: "/thumbnails/121.jpg" },
+  { id: 122, title: "Deathmatch Grind", category: "GTA", image: "/thumbnails/122.jpg" },
+  { id: 123, title: "Sheriff Only", category: "GTA", image: "/thumbnails/123.jpg" },
+  { id: 124, title: "Unreal Aim", category: "GTA", image: "/thumbnails/124.jpg" },
+  { id: 125, title: "Final Clutch", category: "GTA", image: "/thumbnails/125.jpg" },
+  { id: 126, title: "Ranked Highlights", category: "GTA", image: "/thumbnails/126.jpg" },
 
 
 
@@ -307,21 +307,23 @@ function App() {
 
     const categories = [
       "Client Work",
-      "Valorant",
-      "CS2",
       "Minecraft",
+      "Roblox",
+      "GTA",
+      
+      
       
     ];
 
     // Keep WORK grouped by category internally,
     // but arrange the display in 6-item blocks:
     //
-    // Valorant 1-6
+    // GTA 1-6
     // CS2 7-12
     // Minecraft 13-18
     // Gaming 19-24
     //
-    // Valorant 25-30
+    // GTA 25-30
     // CS2 31-36
     // Minecraft 37-42
     // Gaming 43-48
@@ -593,7 +595,7 @@ function App() {
             <div className="micro-stats">
 
               <div>
-                <strong>RaveGFX</strong>
+                <strong>RaveOPGFX</strong>
                 <span>Thumbnail Designer</span>
               </div>
 
@@ -623,7 +625,7 @@ function App() {
 
               <img
                 src={WORK[1]?.image || WORK[0]?.image}
-                alt="RaveGFX thumbnail"
+                alt="RaveOPGFX thumbnail"
                 onError={(e) => {
                   e.currentTarget.src =
                     "/placeholder.svg";
@@ -638,7 +640,7 @@ function App() {
               <div className="card-top">
 
                 <span>
-                  RAVEGFX / 001
+                  RAVEOPGFX / 001
                 </span>
 
                 <span>
@@ -837,7 +839,7 @@ function App() {
 
             <p>
 
-              I'm RaveGFX, a thumbnail designer
+              I'm RAVE, A thumbnail designer
               focused on gaming and creator content.
 
               My goal is simple: create a visual hook
@@ -907,7 +909,7 @@ function App() {
       <h2>
         KEEP UP WITH
         <br />
-        <em>RAVEGFX.</em>
+        <em>RAVEOPGFX.</em>
       </h2>
 
     </div>
@@ -1183,7 +1185,7 @@ function App() {
           </strong>
 
           <small>
-            CS2 • Competitive Gaming • Content
+            CS2 • Competitive Gaming • GTA Content
           </small>
 
         </div>
@@ -1550,7 +1552,7 @@ function App() {
 
 
         <p>
-          Thumbnail Designer • Gaming • Creator Content
+          Copyright © 2026 RaveOPGFX. All rights reserved.
         </p>
 
 
