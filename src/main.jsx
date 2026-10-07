@@ -60,13 +60,13 @@ const WORK = [
   { id: 1, title: "Youtube Banner", category: "Client Work", image: "/thumbnails/01.jpg" },
   { id: 2, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/02.jpg" },
   { id: 3, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/03.jpg" },
-  { id: 4, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/04.jpg" },
-  { id: 5, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/05.jpg" },
-  { id: 6, title: "Vlog Thumbnail", category: "Client Work", image: "/thumbnails/06.jpg" },
+  { id: 4, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/04.jpg" },
+  { id: 5, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/05.jpg" },
+  { id: 6, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/06.jpg" },
 
   // Client Work 43–48
-  { id: 43, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/43.jpg" },
-  { id: 44, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/44.jpg" },
+  { id: 43, title: "Youtube Banner", category: "Client Work", image: "/thumbnails/43.jpg" },
+  { id: 44, title: "Youtube Banner", category: "Client Work", image: "/thumbnails/44.jpg" },
   { id: 45, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/45.jpg" },
   { id: 46, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/46.jpg" },
   { id: 47, title: "Youtube Thumbnail", category: "Client Work", image: "/thumbnails/47.jpg" },
@@ -213,56 +213,56 @@ const WORK = [
 
   
   // ============================================================
-  // ======================== GTA ==========================
+  // ======================== GTA & Others ==========================
   // ============================================================
 
-  // GTA 19–24
-  { id: 19, title: "Gaming Highlights", category: "GTA", image: "/thumbnails/19.jpg" },
-  { id: 20, title: "Insane Moment", category: "GTA", image: "/thumbnails/20.jpg" },
-  { id: 21, title: "Best Gameplay", category: "GTA", image: "/thumbnails/21.jpg" },
-  { id: 22, title: "Epic Match", category: "GTA", image: "/thumbnails/22.jpg" },
-  { id: 23, title: "Crazy Win", category: "GTA", image: "/thumbnails/23.jpg" },
-  { id: 24, title: "Final Round", category: "GTA", image: "/thumbnails/24.jpg" },
+  // GTA & Others 19–24
+  { id: 19, title: "Gaming Highlights", category: "GTA & Others", image: "/thumbnails/19.jpg" },
+  { id: 20, title: "Insane Moment", category: "GTA & Others", image: "/thumbnails/20.jpg" },
+  { id: 21, title: "Best Gameplay", category: "GTA & Others", image: "/thumbnails/21.jpg" },
+  { id: 22, title: "Epic Match", category: "GTA & Others", image: "/thumbnails/22.jpg" },
+  { id: 23, title: "Crazy Win", category: "GTA & Others", image: "/thumbnails/23.jpg" },
+  { id: 24, title: "Final Round", category: "GTA & Others", image: "/thumbnails/24.jpg" },
 
-  // GTA 25–30
-  { id: 25, title: "Ace Gameplay", category: "GTA", image: "/thumbnails/25.jpg" },
-  { id: 26, title: "Immortal Ranked", category: "GTA", image: "/thumbnails/26.jpg" },
-  { id: 27, title: "Reyna Ace", category: "GTA", image: "/thumbnails/27.jpg" },
-  { id: 28, title: "Solo Queue", category: "GTA", image: "/thumbnails/28.jpg" },
-  { id: 29, title: "Rank Up", category: "GTA", image: "/thumbnails/29.jpg" },
-  { id: 30, title: "Crazy Headshots", category: "GTA", image: "/thumbnails/30.jpg" },
+  // GTA & Others 25–30
+  { id: 25, title: "Ace Gameplay", category: "GTA & Others", image: "/thumbnails/25.jpg" },
+  { id: 26, title: "Immortal Ranked", category: "GTA & Others", image: "/thumbnails/26.jpg" },
+  { id: 27, title: "Reyna Ace", category: "GTA & Others", image: "/thumbnails/27.jpg" },
+  { id: 28, title: "Solo Queue", category: "GTA & Others", image: "/thumbnails/28.jpg" },
+  { id: 29, title: "Rank Up", category: "GTA & Others", image: "/thumbnails/29.jpg" },
+  { id: 30, title: "Crazy Headshots", category: "GTA & Others", image: "/thumbnails/30.jpg" },
 
-  // GTA 49–54
-  { id: 49, title: "Insane Spray", category: "GTA", image: "/thumbnails/49.jpg" },
-  { id: 50, title: "Match MVP", category: "GTA", image: "/thumbnails/50.jpg" },
-  { id: 51, title: "Clutch Round", category: "GTA", image: "/thumbnails/51.jpg" },
-  { id: 52, title: "Radiant Lobby", category: "GTA", image: "/thumbnails/52.jpg" },
-  { id: 53, title: "Duelist Diff", category: "GTA", image: "/thumbnails/53.jpg" },
-  { id: 54, title: "One Tap", category: "GTA", image: "/thumbnails/54.jpg" },
+  // GTA & Others 49–54
+  { id: 49, title: "Insane Spray", category: "GTA & Others", image: "/thumbnails/49.jpg" },
+  { id: 50, title: "Match MVP", category: "GTA & Others", image: "/thumbnails/50.jpg" },
+  { id: 51, title: "Clutch Round", category: "GTA & Others", image: "/thumbnails/51.jpg" },
+  { id: 52, title: "Radiant Lobby", category: "GTA & Others", image: "/thumbnails/52.jpg" },
+  { id: 53, title: "Duelist Diff", category: "GTA & Others", image: "/thumbnails/53.jpg" },
+  { id: 54, title: "One Tap", category: "GTA & Others", image: "/thumbnails/54.jpg" },
 
-  // GTA 73–78
-  { id: 73, title: "Ace Round", category: "GTA", image: "/thumbnails/73.jpg" },
-  { id: 74, title: "Last Man Standing", category: "GTA", image: "/thumbnails/74.jpg" },
-  { id: 75, title: "Ranked Demon", category: "GTA", image: "/thumbnails/75.jpg" },
-  { id: 76, title: "Reyna Unleashed", category: "GTA", image: "/thumbnails/76.jpg" },
-  { id: 77, title: "Perfect Round", category: "GTA", image: "/thumbnails/77.jpg" },
-  { id: 78, title: "Unstoppable", category: "GTA", image: "/thumbnails/78.jpg" },
+  // GTA & Others 73–78
+  { id: 73, title: "Ace Round", category: "GTA & Others", image: "/thumbnails/73.jpg" },
+  { id: 74, title: "Last Man Standing", category: "GTA & Others", image: "/thumbnails/74.jpg" },
+  { id: 75, title: "Ranked Demon", category: "GTA & Others", image: "/thumbnails/75.jpg" },
+  { id: 76, title: "Reyna Unleashed", category: "GTA & Others", image: "/thumbnails/76.jpg" },
+  { id: 77, title: "Perfect Round", category: "GTA & Others", image: "/thumbnails/77.jpg" },
+  { id: 78, title: "Unstoppable", category: "GTA & Others", image: "/thumbnails/78.jpg" },
 
-  // GTA 97–102
-  { id: 97, title: "Clutch Master", category: "GTA", image: "/thumbnails/97.jpg" },
-  { id: 98, title: "Ranked Madness", category: "GTA", image: "/thumbnails/98.jpg" },
-  { id: 99, title: "Vandal Only", category: "GTA", image: "/thumbnails/99.jpg" },
-  { id: 100, title: "Phantom Demon", category: "GTA", image: "/thumbnails/100.jpg" },
-  { id: 101, title: "Radiant Push", category: "GTA", image: "/thumbnails/101.jpg" },
-  { id: 102, title: "Insane Flicks", category: "GTA", image: "/thumbnails/102.jpg" },
+  // GTA & Others 97–102
+  { id: 97, title: "Clutch Master", category: "GTA & Others", image: "/thumbnails/97.jpg" },
+  { id: 98, title: "Ranked Madness", category: "GTA & Others", image: "/thumbnails/98.jpg" },
+  { id: 99, title: "Vandal Only", category: "GTA & Others", image: "/thumbnails/99.jpg" },
+  { id: 100, title: "Phantom Demon", category: "GTA & Others", image: "/thumbnails/100.jpg" },
+  { id: 101, title: "Radiant Push", category: "GTA & Others", image: "/thumbnails/101.jpg" },
+  { id: 102, title: "Insane Flicks", category: "GTA & Others", image: "/thumbnails/102.jpg" },
 
-  // GTA 121–126
-  { id: 121, title: "Team Ace", category: "GTA", image: "/thumbnails/121.jpg" },
-  { id: 122, title: "Deathmatch Grind", category: "GTA", image: "/thumbnails/122.jpg" },
-  { id: 123, title: "Sheriff Only", category: "GTA", image: "/thumbnails/123.jpg" },
-  { id: 124, title: "Unreal Aim", category: "GTA", image: "/thumbnails/124.jpg" },
-  { id: 125, title: "Final Clutch", category: "GTA", image: "/thumbnails/125.jpg" },
-  { id: 126, title: "Ranked Highlights", category: "GTA", image: "/thumbnails/126.jpg" },
+  // GTA & Others 121–126
+  { id: 121, title: "Team Ace", category: "GTA & Others", image: "/thumbnails/121.jpg" },
+  { id: 122, title: "Deathmatch Grind", category: "GTA & Others", image: "/thumbnails/122.jpg" },
+  { id: 123, title: "Sheriff Only", category: "GTA & Others", image: "/thumbnails/123.jpg" },
+  { id: 124, title: "Unreal Aim", category: "GTA & Others", image: "/thumbnails/124.jpg" },
+  { id: 125, title: "Final Clutch", category: "GTA & Others", image: "/thumbnails/125.jpg" },
+  { id: 126, title: "Ranked Highlights", category: "GTA & Others", image: "/thumbnails/126.jpg" },
 
 
 
@@ -309,7 +309,7 @@ function App() {
       "Client Work",
       "Minecraft",
       "Roblox",
-      "GTA",
+      "GTA & Others",
       
       
       
@@ -318,12 +318,12 @@ function App() {
     // Keep WORK grouped by category internally,
     // but arrange the display in 6-item blocks:
     //
-    // GTA 1-6
+    // GTA & Others 1-6
     // CS2 7-12
     // Minecraft 13-18
     // Gaming 19-24
     //
-    // GTA 25-30
+    // GTA & Others 25-30
     // CS2 31-36
     // Minecraft 37-42
     // Gaming 43-48
@@ -1189,7 +1189,7 @@ function App() {
           </strong>
 
           <small>
-            CS2 • Competitive Gaming • GTA Content
+            CS2 • Competitive Gaming • GTA & Others Content
           </small>
 
         </div>
